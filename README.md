@@ -1,12 +1,13 @@
-# CPE 315 Lab 1 -- Piku
+## CPE 315 Lab 1 -- Piku
 
-## My name is Alexis Peralta.
+by: Alexis Peralta
 
-* Name is as stated above; no nicknames.
-* This lab is complete:
+This lab is complete:
   * it compiles successfully
   * prints out a proper haiku 
-* Compilation and execution instructions
+
+To compile and execute use the following commands:
   * `gcc -o piku piku.s`
   * `./piku`
-* No serious issues were encountered along the way.
+
+No serious issues were encountered along the way.
